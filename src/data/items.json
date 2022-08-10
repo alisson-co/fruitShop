@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Uva",
+    "price": 8.0,
+    "imgUrl": "/imgs/vine.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Maça",
+    "price": 3.49,
+    "imgUrl": "/imgs/apple.jfif"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/banana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Morango",
+    "price": 7.96,
+    "imgUrl": "/imgs/strawberry.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Laranja",
+    "price": 4.23,
+    "imgUrl": "/imgs/orange.jpg"
+  }
+]
